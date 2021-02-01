@@ -17,4 +17,6 @@ Foreach ($auto as $posicion => $valor) {
 		echo “$posicion: $valor <br>”;
 }
 
+echo "practicando con gitkraken";
+
 ?>
